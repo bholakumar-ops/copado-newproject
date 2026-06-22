@@ -8,4 +8,7 @@ public class copadodemoClass {
         }
         insert cpList;
     }
+    public static void printHello(){
+        System.debug('Hello world');
+    }
 }
